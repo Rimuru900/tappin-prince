@@ -1243,3 +1243,5 @@ if game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool
             end
         end
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rimuru900/Antilock/refs/heads/main/AntiLock-By-Prince?token=GHSAT0AAAAAAC2ZXOJJYCZH5VVQXGXB5GRUZZ66RZA"))()
